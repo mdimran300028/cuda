@@ -1,0 +1,103 @@
+@media screen and (max-width: 1160px) {
+  .service-collumns .collumn {
+	width: 42%;
+	margin: 0 4%;
+	margin-bottom: 20px;
+}
+
+	.team-collumns .collumn {
+	width: 42%;
+	margin: 0 4%;
+	margin-bottom: 20px;
+}
+
+.skill-collumns .collumn {
+	width: 42%;
+	margin: 0 4%;
+	margin-top: 20px;
+}
+
+.portfolio-collumns .collumn {
+	width: 92%;
+	margin: 0 4%;
+	margin-bottom: 30px;
+}
+.portfolio-collumns .collumn .caption {
+	display: block;
+}
+
+}
+
+@media screen and (max-width: 960px) {
+  .fa.fa-bars.mobile-menu {
+  	display: block;
+  }
+  .pc-menu{
+  	display: none;
+  }
+
+  .testimonial-collumns .collumn {
+	width: 92%;
+	margin: 0 4%;
+}
+
+.testimonial-collumns .collumn .user-photo {
+	text-align: center;
+}
+
+}
+
+@media screen and (max-width: 780px) {
+.portfolio-collumns .collumn img {
+	width: 100%;
+}
+
+}
+
+@media screen and (max-width: 660px) {
+.service-collumns .collumn {
+	width: 90%;
+	margin: 0 5%;
+	margin-bottom: 20px; 
+}
+
+.team-collumns .collumn {
+	width: 90%;
+	margin: 0 5%;
+	margin-bottom: 20px;
+}
+
+.footer nav ul li a {
+	padding: 4px 8px;
+}
+
+.get-in-touch .contact-form {
+	width: 100%;
+}
+
+.get-in-touch .contact-form input {
+	margin-bottom: 10px;
+}
+
+.skill-collumns .collumn {
+	width: 90%;
+	margin: 0 5%;
+	margin-top: 20px;
+}
+}
+
+
+@media screen and (max-width: 600px) {
+
+.header-body,.services,.team,.skills,.portfolio,.testimonial,.get-in-touch {
+	padding: 50px;
+}
+}
+
+@media screen and (max-width: 460px) {
+
+.header-body,.services,.team,.skills,.portfolio,.testimonial,.get-in-touch {
+	padding: 10px;
+}
+
+}
